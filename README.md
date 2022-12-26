@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @CleiL
-- 👀 I’m interested in Data Science, Full Stack ...
-- 🌱 I’m currently learning Data Science, Full Stack Python e C#, .NET, Angular JS, Django, ...
-- 💞️ I’m looking to collaborate on  Data Science, Full Stack...
-- 📫 How to reach me https://www.linkedin.com/in/clei-lisboa-santos-76373246/, clei.lisboa@gmail.com...
+### Olá, Sou Clei
 
-<!---
-CleiL/CleiL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##### Sobre o Clei 
+
+Formado em Engenharia mecânica, atualmente em trasição de carreira me profissionalizando nas áreas de Ciência de dados, Análise e desenvolvimento de sistemas e desenvolvedor Full Stack.
+
+### Habilidades
+
+![HTML] (https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
