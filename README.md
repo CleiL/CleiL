@@ -32,5 +32,7 @@ Formado em Engenharia mecânica, atualmente em transição de carreira me profis
 
 ### Contatos
 
-Linkedin (https://www.linkedin.com/in/clei-lisboa-santos-76373246/)
+Rede Social
+
+<a href="https://www.linkedin.com/in/clei-lisboa-santos-76373246/">LInkedin</a>
 
