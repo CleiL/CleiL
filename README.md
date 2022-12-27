@@ -1,6 +1,6 @@
 ### Olá, Sou Clei
 
-##### Sobre o Clei 
+##### Sobre o Clei Lisboa
 
 Formado em Engenharia mecânica, atualmente em transição de carreira me profissionalizando nas áreas de Ciência de dados, Análise e desenvolvimento de sistemas e desenvolvedor Full Stack.
 
