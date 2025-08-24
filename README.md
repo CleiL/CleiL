@@ -2,7 +2,7 @@
 
 ##### Sobre o Clei Lisboa
 
-Formado em Engenharia mecânica, atualmente em transição de carreira me profissionalizando nas áreas de Ciência de dados, Análise e desenvolvimento de sistemas e desenvolvedor Full Stack.
+Formado em Engenharia mecânica, Dev Full Stack .Net e Angular
 
 ### Habilidades
 
@@ -14,7 +14,7 @@ Formado em Engenharia mecânica, atualmente em transição de carreira me profis
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Angular JS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)
