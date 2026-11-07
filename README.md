@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cleisantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:clei.lisboa@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -52,6 +52,7 @@
 ### 📊 Estatísticas
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleiL&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiL&layout=compact&theme=transparent&hide_border=true&langs_count=6"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CleiL&theme=github_dark"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CleiL&theme=github_dark"/>
 </p>
+<img src="https://streak-stats.demolab.com?user=CleiL&theme=github-dark-blue&hide_border=true"/>
