@@ -1,40 +1,57 @@
-### Olá, Sou Clei
+<h1 align="center">Olá, eu sou o Clei 👋</h1>
+<p align="center"><b>Desenvolvedor Backend .NET · Arquitetura de Software · Full Stack (Angular/React)</b></p>
 
-##### Sobre o Clei Lisboa
+<p align="center">
+  <a href="https://www.linkedin.com/in/cleisantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-Formado em Engenharia mecânica, Dev Full Stack .Net e Angular
+---
 
-### Habilidades
+### 🧭 Sobre mim
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+- 🔧 Engenheiro mecânico que migrou para software — trago o olhar de engenharia para sistemas: confiabilidade, processos e solução de problemas reais
+- 🏗️ Pós-graduado em **Arquitetura de Software, Ciência de Dados e Cibersegurança** (PUC-Campinas)
+- 💼 Foco em **backend .NET**: APIs, microsserviços, Clean Architecture e DDD
+- 🚀 Fundador da **CINOVASYNC**, onde construo SaaS próprios (gestão de oficinas mecânicas e locadoras de veículos)
+- 📍 São Paulo, SP
 
+### 🛠️ Stack
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Backend**
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Web API](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-333333?style=flat-square)
 
-### Detalhes
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![Clei Lisboa GitHub stats](https://github-readme-stats.vercel.app/api?username=CleiL&show_icons=true&theme=dark)
+**Dados**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Principais Liguagens
+**Cloud & Mensageria**
+![Azure](https://img.shields.io/badge/Azure_Functions-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3_|_SQS_|_SNS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CleiL)](https://github.com/CleiL/github-readme-stats)
+**Arquitetura:** Microsserviços · Clean Architecture · DDD · SOLID
 
-### Contatos
+### 📌 Projetos em destaque
 
-Rede Social
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [schedule](https://github.com/CleiL/schedule) | Gestão de agendamentos de consultas para clínicas | C# · .NET |
+| _SaaS Oficina_ | Sistema de gestão para oficinas mecânicas | .NET · Angular |
+| _SaaS Locadora_ | Gestão de frota e locação de veículos | .NET · Angular |
 
-<a href="https://www.linkedin.com/in/clei-lisboa-santos-76373246/">LInkedin</a>
+### 📊 Estatísticas
 
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleiL&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiL&layout=compact&theme=transparent&hide_border=true&langs_count=6"/>
+</p>
