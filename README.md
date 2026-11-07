@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Clei 👋</h1>
-<p align="center"><b>Desenvolvedor Backend .NET · Arquitetura de Software · Full Stack (Angular/React)</b></p>
+<p align="center"><b>Engenheiro de Software · .NET · Arquitetura de Software · Full Stack (Angular/React)</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cleisantos"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 
 - 🔧 Engenheiro mecânico que migrou para software — trago o olhar de engenharia para sistemas: confiabilidade, processos e solução de problemas reais
 - 🏗️ Pós-graduado em **Arquitetura de Software, Ciência de Dados e Cibersegurança** (PUC-Campinas)
-- 💼 Foco em **backend .NET**: APIs, microsserviços, Clean Architecture e DDD
+- 💼 **Engenheiro de Software** com foco em backend .NET: desenho de sistemas, APIs, microsserviços, Clean Architecture e DDD
 - 🚀 Fundador da **CINOVASYNC**, onde construo SaaS próprios (gestão de oficinas mecânicas e locadoras de veículos)
 - 📍 São Paulo, SP
 
@@ -52,7 +52,6 @@
 ### 📊 Estatísticas
 
 <p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CleiL&theme=github_dark"/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CleiL&theme=github_dark"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleiL&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleiL&layout=compact&theme=transparent&hide_border=true&langs_count=6"/>
 </p>
-<img src="https://streak-stats.demolab.com?user=CleiL&theme=github-dark-blue&hide_border=true"/>
